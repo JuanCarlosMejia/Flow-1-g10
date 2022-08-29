@@ -6,7 +6,7 @@ Node.js Usar la versión LTS v16x e instalar los build tools.
 
 [Node Red](https://nodered.org/docs/getting-started/local)
 
-#Instrucciones:
+# Instrucciones:
 -En el programa node utilizar el bloque inject y el bloque debug y hacer la union entre ambos
 -Dar click en el bloke inject donde dice "repeat" y en la opcion interval colocar un tiempo de 1 Segundo
 -Por ultio dar click en el boton Deploy para actualizar los cambios
