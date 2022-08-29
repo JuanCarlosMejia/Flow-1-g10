@@ -13,4 +13,6 @@ Node.js Usar la versión LTS v16x e instalar los build tools.
 # Resultados
 ![image](https://user-images.githubusercontent.com/111294967/187208442-cb3dd46e-9fe7-4976-9ff5-1020867dae5e.png)
 
-#
+# Evidencias
+![image](https://user-images.githubusercontent.com/111294967/187221612-e63d1e91-b941-4372-9f4a-933588900b63.png)
+
